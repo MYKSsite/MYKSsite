@@ -1,0 +1,21 @@
+body {
+  background-color: #eaf6f6;
+}
+h1 {color:red; text-align: center;}
+h2 {color:brown; text-align: center;}
+h3 {color:green text-align: center;}
+p {color: blue; text-align: center;}
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: brown;
+  border-width: 5px;
+  height: 1px;
+  width: 30%;
+
+}
+
+img {
+  height: 20px;
+}
